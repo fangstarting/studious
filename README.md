@@ -1,4 +1,4 @@
 # studious
-Pay薪资平台
+学习项目
 
 作者 fengfang
